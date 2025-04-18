@@ -1,4 +1,3 @@
-const fetch = require('node-fetch');  // For CommonJS (if using require)
 const { Client, GatewayIntentBits } = require('discord.js');
 const fetch = require('node-fetch');
 require('dotenv').config();
